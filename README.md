@@ -1,2 +1,2 @@
 # OpenFOAM-laminar-turbulent-flow-velocity-profiles.
-This python code plots the fully velocity profile for laminar and turbulent flow for an axisymmetric pipe computed as a wedge. 
+This python code plots the fully velocity profile for laminar and turbulent flow through an axisymmetric pipe computed as a wedge. The data in the excel file was obtained from a plot over line at the end of the pipe from the centre to the wall. A kernel density plot is also used in this code to visualise the residual error between(%) between the analytical solution and exact solution for both laminar and turbulent flow through a pipe.
